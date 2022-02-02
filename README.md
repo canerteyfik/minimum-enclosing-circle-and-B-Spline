@@ -1,5 +1,11 @@
 # minimum-enclosing-circle-and-B-Spline
            Minimum Çevreleyen Çember ve B Spline
+           
+      -Abstract
+      
+-The purpose of this project is to read n pieces x-y points in a file with a .txt (or .csv) extension. After that the second thing make 
+it draw the smallest circle surrounding n pieces point on the x-y coordinate . In the same time  plots the curve of
+b splines passing through or near these n pieces points.
 
       -  Proje Hakkında
 -Bu projede amaç points.txt dosyasındaki noktaları okuyan ve bu noktaları kapasayan en küçük çemberi 
